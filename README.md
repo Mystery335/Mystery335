@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mystery335
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Javascript
 - 😄 Pronouns: He/Him
 
 <!---
